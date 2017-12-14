@@ -1,6 +1,6 @@
 body {
-  background-color #fff;
-  font:sans-serif;
+  background-color: #fff;
+  font: sans-serif;
 }
 
 h1 {
@@ -8,6 +8,6 @@ h1 {
 }
 
 article {
-  font-style: italic
+  font-style: italic;
   color: #fff;
 }
